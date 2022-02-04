@@ -11,7 +11,7 @@
 
 @import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
 
-@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&display=swap");
 
 @font-face {
 	font-family: "Parisienne";
@@ -25,6 +25,7 @@
 body {
 	font-family: "IBM Plex Sans Thai Looped", sans-serif;
 	font-weight: 400;
+	line-height: 1.2;
 	margin: 20px;
 }
 
@@ -146,7 +147,7 @@ ul > li {
 }
 
 .minimoog-img {
-	width: 1030px;
+	width: 990px;
 	margin-bottom: 10px;
 }
 
@@ -185,7 +186,7 @@ ul > li {
 
 .brian-img {
 	padding-left: 30px;
-	width: 300px;
+	width: 330px;
 }
 
 .paragraph-appearance {
